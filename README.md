@@ -1,1 +1,1 @@
-# my-wezterm-config
+# put this file to ~ 
